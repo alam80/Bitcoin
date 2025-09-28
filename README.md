@@ -3,6 +3,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Getting Started
 <img width="724" height="753" alt="image" src="https://github.com/user-attachments/assets/7d5e48aa-1b1b-4274-a781-df7709388ef4" />
+<img width="165" height="341" alt="image" src="https://github.com/user-attachments/assets/947a571b-ed8f-4ffd-bf80-eddcbe21cfb9" />
 
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.

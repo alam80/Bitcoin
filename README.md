@@ -2,14 +2,8 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 
 # Getting Started
-<img width="481" height="1018" alt="image" src="https://github.com/user-attachments/assets/8b4691a3-7f1a-476e-bae0-f447f7298121" />
-<img width="478" height="1024" alt="image" src="https://github.com/user-attachments/assets/25037b79-0690-47ff-b01d-cd8ea0f9517d" />
-<img width="475" height="1016" alt="image" src="https://github.com/user-attachments/assets/a2c59193-ee56-4078-985c-536d17b746cf" />
-<img width="468" height="1017" alt="image" src="https://github.com/user-attachments/assets/ac1c53b3-cc6f-4a84-bcc0-983725e35a44" />
-<img width="477" height="1009" alt="image" src="https://github.com/user-attachments/assets/bbdadf14-c3f8-4d97-8dd2-1b8df71d044c" />
-<img width="488" height="1019" alt="image" src="https://github.com/user-attachments/assets/5756e97b-77c9-4d85-9a37-fc2b5690bed0" />
-<img width="475" height="1012" alt="image" src="https://github.com/user-attachments/assets/1bf5521a-8fb2-4419-82b6-a93a5b3ef11f" />
-<img width="477" height="1012" alt="image" src="https://github.com/user-attachments/assets/39b3cacb-79bc-43df-a18b-b48c38001fd3" />
+<img width="724" height="753" alt="image" src="https://github.com/user-attachments/assets/7d5e48aa-1b1b-4274-a781-df7709388ef4" />
+
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
 
